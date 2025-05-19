@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 💻 About Me
+## 💻 Who's DevKichi?
 
 I'm a Computer Science student with a passion for both low-level systems and expressive web development.
 I love blending clean code with a bit of character — writing performant code without losing the joy of good design.
