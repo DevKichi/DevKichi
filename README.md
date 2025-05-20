@@ -32,7 +32,7 @@ Here are some of the tools and technologies I use regularly:
 ## 📫 Contact
 Feel free to connect or reach out:
 
-- Discord: DevKichi#0000
+- Discord: Deviryx#0000
 - GitHub: You're already here 👋
 
 <p align="center">
